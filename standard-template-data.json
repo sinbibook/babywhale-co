@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-11-17T09:00:38.105738737Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-11-17T09:01:33.201337485Z",
     "templateType": "trip_f",
     "propertyId": "1458c349-5a71-4adc-b7ec-3244933b4838",
     "homepageId": "5ad6c314-02ee-4ac3-adcb-31a5e8f2ab08"
@@ -1637,7 +1637,6 @@
       "roomtypes": [
         {
           "id": "28438ec2-8d8f-4119-9803-952b9fa81f9d",
-          "name": "아기고래 A동(독채, 풀빌라, 개별바베큐)",
           "images": [
             {
               "id": "2ca2850c-d495-4b54-a0ce-262952a0c592",
@@ -1932,7 +1931,6 @@
         },
         {
           "id": "7646eb1b-f4e7-4e99-ba59-ec1eed298fd4",
-          "name": "아기고래 B동(독채, 풀빌라, 개별바베큐)",
           "images": [
             {
               "id": "8eb2cbd4-d06b-4ff7-b072-c94c68db5324",
